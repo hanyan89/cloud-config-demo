@@ -1,0 +1,10 @@
+user:
+  name: likui
+  age:  83
+
+ware:
+  title: 牙刷
+  price: 20.8
+  type:  电动
+  color: blue
+  
